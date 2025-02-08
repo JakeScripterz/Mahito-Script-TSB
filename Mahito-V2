@@ -1,0 +1,14 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Kenjihin69/Kenjihin69/refs/heads/main/Reall'))()
+task.wait(0.1)
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Kenjihin69/Kenjihin69/refs/heads/main/Effect'))()
+task.wait(0.1)
+loadstring(game:HttpGet('https://raw.githubusercontent.com/JakeScripterz/Run-Tool/refs/heads/main/Phantom%20Dash'))()
+task.wait(0.1)
+loadstring(game:HttpGet(https://raw.githubusercontent.com/JakeScripterz/TP-Tool/refs/heads/main/TP-Tool))()
+local Players = game:GetService("Players")
+local player = Players.LocalPlayer
+local humanoid = player.Character.Humanoid
+while true do
+    humanoid.AutoRotate = true
+    wait(0)
+end
