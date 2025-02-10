@@ -5,8 +5,6 @@ task.wait(0.1)
 loadstring(game:HttpGet('https://raw.githubusercontent.com/JakeScripterz/Run-Tool/refs/heads/main/Phantom%20Dash'))()
 task.wait(0.1)
 loadstring(game:HttpGet('https://raw.githubusercontent.com/JakeScripterz/TP-Tool/refs/heads/main/Shadow-Step'))()
-task.wait(0.1)
-loadstring(game:HttpGet("https://raw.githubusercontent.com/JakeScripterz/Mahito-Script-TSB/refs/heads/main/Mahito%20Idle%20anims"))()
 local Players = game:GetService("Players")
 local player = Players.LocalPlayer
 local humanoid = player.Character.Humanoid
